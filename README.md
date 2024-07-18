@@ -1,9 +1,14 @@
 # Ride-the-Bus
 Ride the Bus - single player card game
 
-Make guesses as to what the next card will be (in relation to the card shown)
+How To Play:
+    Try to guess if the next card is red or black
+    Then if the following will be higher or lower in rank
+    Then if the next is in between or outside the previous 2 cards
+    Finally guess the suit of the next card after
 
-Red or black? -> Higher or lower than that card? -> In between or outside the last 2 cards? -> Suit at random?
+    If a player can get all 4 correct a score point is awarded
+    If any guesses are incorrect the player restarts from the first guess
+    See how many score points you can get before the deck runs out
 
-A correct sequence of all 4 will score a point
-How many points can you get before rezching the end of the deck?
+playing-cards images directory open sourced for free from http://superdevresources.com/
